@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "congress.gov.ph",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "SameSite",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "Lax"
+    }
+]
