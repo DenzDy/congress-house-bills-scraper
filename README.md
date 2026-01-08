@@ -1,2 +1,2 @@
 # congress-house-bills-scraper
-Web scraper for Congress and House Bill Resolutions
+Web scraper for Congress and House Bill Resolutions from 
